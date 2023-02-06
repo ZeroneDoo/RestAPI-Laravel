@@ -51,8 +51,6 @@ We would like to extend our thanks to the following sponsors for funding Laravel
 
 ## Contributing
 
-## Authors
-
 Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [Laravel documentation](https://laravel.com/docs/contributions).
 
 ## Code of Conduct
@@ -66,5 +64,7 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+
+## Authors
 
 - [@ZeroneDoo](https://www.github.com/ZeroneDoo)
